@@ -1,0 +1,90 @@
+[
+  {
+    "nombre": "Milanesas de pollo al horno",
+    "ingredientes": [
+      "2 pechugas de pollo",
+      "2 huevos",
+      "Pan rallado sin harina",
+      "Condimentos a gusto (pimienta, orégano, ají molido, etc.)"
+    ],
+    "receta": [
+      "Precalentar el horno a 200°C.",
+      "Cortar las pechugas de pollo en filetes finos y condimentar a gusto.",
+      "Batir los huevos en un plato.",
+      "Pasar los filetes de pollo por el huevo batido y luego por el pan rallado.",
+      "Colocar las milanesas en una bandeja para horno previamente aceitada.",
+      "Hornear durante 20-25 minutos o hasta que estén doradas."
+    ]
+  },
+  {
+    "nombre": "Milanesas de berenjena al horno",
+    "ingredientes": [
+      "2 berenjenas",
+      "2 huevos",
+      "Pan rallado sin harina",
+      "Condimentos a gusto (pimienta, orégano, ají molido, etc.)"
+    ],
+    "receta": [
+      "Precalentar el horno a 200°C.",
+      "Cortar las berenjenas en rodajas finas y condimentar a gusto.",
+      "Batir los huevos en un plato.",
+      "Pasar las rodajas de berenjena por el huevo batido y luego por el pan rallado.",
+      "Colocar las milanesas de berenjena en una bandeja para horno previamente aceitada.",
+      "Hornear durante 20-25 minutos o hasta que estén doradas."
+    ]
+  },
+  {
+    "nombre": "Milanesas de carne a la plancha",
+    "ingredientes": [
+      "500g de carne magra (nalga, cuadril, bola de lomo)",
+      "2 huevos",
+      "Pan rallado sin harina",
+      "Condimentos a gusto (pimienta, orégano, ají molido, etc.)"
+    ],
+    "receta": [
+      "Cortar la carne en filetes finos y condimentar a gusto.",
+      "Batir los huevos en un plato.",
+      "Pasar los filetes de carne por el huevo batido y luego por el pan rallado.",
+      "Calentar una plancha o sartén antiadherente a fuego medio-alto.",
+      "Cocinar las milanesas de carne durante 3-4 minutos de cada lado o hasta que estén doradas y cocidas por completo."
+    ]
+  },
+  {
+    "nombre": "Milanesas de pollo con queso y jamón",
+    "ingredientes": [
+      "4 pechugas de pollo",
+      "4 fetas de jamón cocido",
+      "4 fetas de queso",
+      "2 huevos",
+      "Pan rallado sin harina",
+      "Condimentos a gusto (pimienta, orégano, ají molido, etc.)"
+    ],
+    "receta": [
+      "Cortar las pechugas de pollo en filetes finos y condimentar a gusto.",
+      "Colocar una feta de jamón y una feta de queso sobre cada filete de pollo.",
+      "Enrollar los filetes de pollo y asegurar con un palillo o hilo de cocina.",
+      "Batir los huevos en un plato.",
+      "Pasar los rollos de pollo por el huevo batido y luego por el pan rallado.",
+      "Calentar una sartén con aceite a fuego medio-alto.",
+      "Cocinar las milanesas de pollo durante 5-7 minutos de cada lado o hasta que estén doradas y cocidas por completo."
+    ]
+  },
+  {
+    "nombre": "Milanesas de berenjena con queso",
+    "ingredientes": [
+      "2 berenjenas",
+      "4 fetas de queso",
+      "2 huevos",
+      "Pan rallado sin harina",
+      "Condimentos a gusto (pimienta, orégano, ají molido, etc.)"
+    ],
+    "receta": [
+      "Cortar las berenjenas en rodajas finas y condimentar a gusto.",
+      "Colocar una feta de queso sobre cada rodaja de berenjena.",
+      "Batir los huevos en un plato.",
+      "Pasar las rodajas de berenjena por el huevo batido y luego por el pan rallado.",
+      "Calentar una sartén con aceite a fuego medio-alto.",
+      "Cocinar las milanesas de berenjena durante 3-4 minutos de cada lado o hasta que estén doradas y cocidas por completo."
+    ]
+  }
+]

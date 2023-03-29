@@ -1,0 +1,115 @@
+[
+  {
+    "nombre": "Puré de zapallo",
+    "ingredientes": [
+      "1 kg de zapallo",
+      "1 taza de leche",
+      "2 cucharadas de manteca",
+      "Sal y pimienta a gusto"
+    ],
+    "receta": [
+      "Pelar y cortar el zapallo en cubos grandes.",
+      "Cocinar el zapallo en agua con sal hasta que esté tierno.",
+      "Escurrir bien el zapallo y pasar por un pasapurés o procesadora.",
+      "Agregar la leche caliente y la manteca, mezclar bien.",
+      "Condimentar con sal y pimienta a gusto."
+    ]
+  },
+  {
+    "nombre": "Ensalada de zanahoria y remolacha",
+    "ingredientes": [
+      "2 zanahorias grandes",
+      "2 remolachas medianas",
+      "1/4 taza de aceite de oliva",
+      "1/4 taza de vinagre de manzana",
+      "1 cucharadita de mostaza",
+      "1 cucharadita de miel",
+      "Sal y pimienta a gusto"
+    ],
+    "receta": [
+      "Pelar y rallar las zanahorias y las remolachas.",
+      "En un bowl, mezclar el aceite de oliva, el vinagre de manzana, la mostaza y la miel.",
+      "Agregar las zanahorias y remolachas ralladas, mezclar bien.",
+      "Condimentar con sal y pimienta a gusto.",
+      "Dejar reposar en la nevera durante al menos 30 minutos antes de servir."
+    ]
+  },
+  {
+    "nombre": "Papas a la crema",
+    "ingredientes": [
+      "1 kg de papas",
+      "1 cebolla",
+      "1 diente de ajo",
+      "2 tazas de leche",
+      "2 cucharadas de manteca",
+      "2 cucharadas de harina",
+      "1/2 taza de queso rallado",
+      "Sal y pimienta a gusto"
+    ],
+    "receta": [
+      "Pelar y cortar las papas en rodajas finas.",
+      "Picar la cebolla y el ajo.",
+      "En una sartén, derretir la manteca y añadir la cebolla y el ajo. Saltear hasta que estén dorados.",
+      "Agregar la harina y mezclar bien.",
+      "Agregar la leche poco a poco, mezclando bien para que no se formen grumos.",
+      "Agregar las papas y mezclar bien. Condimentar con sal y pimienta.",
+      "Cocinar a fuego medio hasta que las papas estén tiernas.",
+      "Agregar el queso rallado y mezclar bien hasta que se derrita.",
+      "Servir caliente."
+    ]
+  },
+  {
+    "nombre": "Ensalada de rúcula y tomates secos",
+    "ingredientes": [
+      "1 manojo de rúcula",
+      "1/2 taza de tomates secos",
+      "1/2 taza de aceitunas negras",
+      "1/4 taza de aceite de oliva",
+      "1/4 taza de vinagre balsámico",
+      "1 cucharadita de mostaza dijon",
+      "1 cucharadita de miel",
+      "Sal y pimienta a gusto"
+    ],
+    "receta": [
+      "Lavar y secar la rúcula.",
+      "Cortar los tomates secos en tiras y las aceitunas en rodajas.",
+      "En un bowl, mezclar el aceite de oliva, el vinagre balsámico, la mostaza y la miel.",
+      "Agregar la rúcula, los tomates secos y las aceitunas. Mezclar bien.",
+      "Condimentar con sal y pimienta a gusto.",
+      "Dejar reposar en la nevera durante al menos 30 minutos antes de servir."
+    ]
+  },
+  {
+    "nombre": "Puré de papas",
+    "ingredientes": [
+      "1 kg de papas",
+      "1/2 taza de leche",
+      "1/4 taza de manteca",
+      "Sal y pimienta al gusto"
+    ],
+    "receta": [
+      "Pelar las papas y cortarlas en cubos grandes.",
+      "Colocar las papas en una olla con agua y cocinar a fuego medio-alto hasta que estén tiernas.",
+      "Escurrir las papas y colocarlas de vuelta en la olla.",
+      "Agregar la leche y la manteca y pisar las papas hasta obtener un puré suave.",
+      "Agregar sal y pimienta al gusto y mezclar bien."
+    ]
+  },
+  {
+    "nombre": "Ensalada de tomate y cebolla",
+    "ingredientes": [
+      "4 tomates medianos",
+      "1 cebolla mediana",
+      "1/4 taza de aceite de oliva",
+      "2 cucharadas de vinagre",
+      "Sal y pimienta al gusto"
+    ],
+    "receta": [
+      "Cortar los tomates en rodajas y la cebolla en tiras finas.",
+      "Colocar los tomates y la cebolla en un recipiente.",
+      "En un recipiente aparte, mezclar el aceite de oliva, el vinagre, la sal y la pimienta.",
+      "Agregar la mezcla de aceite y vinagre a los tomates y la cebolla y mezclar bien.",
+      "Refrigerar la ensalada durante al menos 30 minutos antes de servir."
+    ]
+  }
+]

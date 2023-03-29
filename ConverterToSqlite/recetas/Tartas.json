@@ -1,0 +1,137 @@
+[
+  {
+    "nombre": "Tarta de calabaza y cebolla",
+    "ingredientes": [
+      "1 taza de puré de calabaza",
+      "2 cebollas",
+      "3 huevos",
+      "1/2 taza de queso rallado",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharadita de sal",
+      "1/4 cucharadita de pimienta",
+      "1/4 cucharadita de nuez moscada"
+    ],
+    "instrucciones": [
+      "Precalentar el horno a 180°C.",
+      "Cortar las cebollas en juliana y saltearlas en aceite de oliva hasta que estén doradas.",
+      "En un bol mezclar el puré de calabaza, los huevos, el queso rallado, la sal, la pimienta y la nuez moscada.",
+      "Incorporar las cebollas salteadas a la mezcla.",
+      "Verter la mezcla en una tartera previamente aceitada.",
+      "Hornear por 30-35 minutos hasta que esté dorada y firme.",
+      "Dejar enfriar antes de servir."
+    ]
+  },
+  {
+    "nombre": "Tarta de brócoli y champiñones",
+    "ingredientes": [
+      "1 brócoli",
+      "200 gramos de champiñones",
+      "3 huevos",
+      "1/2 taza de queso rallado",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharadita de sal",
+      "1/4 cucharadita de pimienta"
+    ],
+    "instrucciones": [
+      "Precalentar el horno a 180°C.",
+      "Cortar el brócoli en ramilletes y cocinar al vapor hasta que esté tierno.",
+      "Cortar los champiñones en láminas y saltear en aceite de oliva hasta que estén dorados.",
+      "En un bol mezclar los huevos, el queso rallado, la sal y la pimienta.",
+      "Agregar el brócoli y los champiñones a la mezcla de huevos.",
+      "Verter la mezcla en una tartera previamente aceitada.",
+      "Hornear por 25-30 minutos hasta que esté dorada y firme.",
+      "Dejar enfriar antes de servir."
+    ]
+  },
+  {
+    "nombre": "Tarta de tomates y albahaca",
+    "ingredientes": [
+      "1 taza de tomates cherry cortados por la mitad",
+      "1/2 taza de albahaca fresca picada",
+      "1 cebolla",
+      "2 huevos",
+      "1/2 taza de queso rallado",
+      "1/2 taza de leche",
+      "Aceite de oliva",
+      "Sal y pimienta negra al gusto"
+    ],
+    "instrucciones": [
+      "Precalentar el horno a 180°C.",
+      "Picar finamente la cebolla y saltear en una sartén con un poco de aceite de oliva hasta que esté dorada.",
+      "Agregar los tomates cherry y saltear por un par de minutos hasta que estén un poco blandos.",
+      "En un tazón grande, batir los huevos y agregar la leche, sal y pimienta negra al gusto.",
+      "Agregar la mezcla de tomates y cebolla, la albahaca picada y el queso rallado a la mezcla de huevo y mezclar bien.",
+      "Verter la mezcla en un molde para tarta previamente aceitado y hornear por 30-35 minutos, o hasta que esté dorado y cocido en el centro.",
+      "Dejar enfriar antes de cortar y servir."
+    ]
+  },
+  {
+    "nombre": "Tarta de espinacas y queso",
+    "ingredientes": [
+      "1 cebolla",
+      "2 dientes de ajo",
+      "2 tazas de hojas de espinacas frescas",
+      "1 taza de queso rallado",
+      "4 huevos",
+      "1/2 taza de leche",
+      "Sal y pimienta negra al gusto",
+      "Aceite de oliva"
+    ],
+    "instrucciones": [
+      "Precalentar el horno a 180°C.",
+      "Picar finamente la cebolla y el ajo, y saltear en una sartén con un poco de aceite de oliva hasta que estén dorados.",
+      "Agregar las hojas de espinaca y saltear hasta que se ablanden.",
+      "En un tazón grande, batir los huevos y agregar la leche, sal y pimienta negra al gusto.",
+      "Agregar la mezcla de espinacas y queso rallado a la mezcla de huevo y mezclar bien.",
+      "Verter la mezcla en un molde para tarta previamente aceitado y hornear por 30-35 minutos, o hasta que esté dorado y cocido en el centro.",
+      "Dejar enfriar antes de cortar y servir."
+    ]
+  },
+  {
+    "nombre": "Tarta de pollo y verduras",
+    "ingredientes": [
+      "1 pechuga de pollo cocida y desmenuzada",
+      "1 zanahoria rallada",
+      "1/2 cebolla picada",
+      "1 pimiento rojo picado",
+      "3 huevos",
+      "1/2 taza de leche",
+      "Sal y pimienta al gusto",
+      "Aceite de oliva",
+      "Tomillo fresco para decorar"
+    ],
+    "preparacion": [
+      "Precalentar el horno a 180°C.",
+      "Saltear la cebolla y el pimiento en una sartén con aceite de oliva hasta que estén tiernos.",
+      "Mezclar en un tazón la pechuga de pollo desmenuzada, la zanahoria rallada, la cebolla y el pimiento salteados.",
+      "En otro tazón, batir los huevos con la leche, la sal y la pimienta.",
+      "Agregar la mezcla de pollo y verduras a la mezcla de huevo y revolver bien.",
+      "Colocar la mezcla en un molde para tarta previamente engrasado y hornear durante 30-40 minutos, o hasta que esté dorado.",
+      "Retirar del horno y dejar enfriar.",
+      "Decorar con hojas de tomillo fresco antes de servir."
+    ]
+  },
+  {
+    "nombre": "Tarta de brócoli y queso",
+    "ingredientes": [
+      "1/2 brócoli cortado en floretes",
+      "1/2 cebolla picada",
+      "2 dientes de ajo picados",
+      "3 huevos",
+      "1/2 taza de queso rallado",
+      "1/4 taza de leche",
+      "Sal y pimienta al gusto",
+      "Aceite de oliva",
+      "Nuez moscada rallada para decorar"
+    ],
+    "preparacion": [
+      "Precalentar el horno a 180°C.",
+      "Hervir el brócoli en agua con sal durante 5 minutos o hasta que esté tierno.",
+      "Saltear la cebolla y el ajo en una sartén con aceite de oliva hasta que estén tiernos.",
+      "Mezclar en un tazón el brócoli cocido, la cebolla y el ajo salteados, los huevos batidos, el queso rallado, la leche, la sal y la pimienta.",
+      "Colocar la mezcla en un molde para tarta previamente engrasado y hornear durante 30-40 minutos, o hasta que esté dorado.",
+      "Retirar del horno y dejar enfriar.",
+      "Decorar con nuez moscada rallada antes de servir."
+    ]
+  }
+]

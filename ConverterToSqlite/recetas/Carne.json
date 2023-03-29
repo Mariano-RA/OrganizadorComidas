@@ -1,0 +1,108 @@
+[
+  {
+    "nombre": "Tiras de Carne con Verduras",
+    "ingredientes": [
+      "500g de carne cortada en tiras",
+      "2 zanahorias medianas peladas y cortadas en cubos",
+      "1 cebolla grande cortada en cubos",
+      "1 pimiento rojo grande cortado en tiras",
+      "2 dientes de ajo picados",
+      "Aceite de oliva",
+      "Sal y pimienta a gusto"
+    ],
+    "receta": [
+      "Calentar un poco de aceite de oliva en una sartén grande a fuego medio.",
+      "Agregar la carne y cocinar por unos minutos hasta que esté dorada.",
+      "Retirar la carne y reservar.",
+      "Agregar un poco más de aceite de oliva a la misma sartén y añadir las zanahorias, la cebolla, el pimiento y el ajo.",
+      "Saltear por unos minutos hasta que las verduras estén tiernas.",
+      "Agregar la carne a la sartén con las verduras y mezclar bien.",
+      "Condimentar con sal y pimienta a gusto.",
+      "Dejar enfriar y guardar en un recipiente hermético para llevar como vianda."
+    ]
+  },
+  {
+    "nombre": "Estofado de Carne con Papas",
+    "ingredientes": [
+      "500g de carne cortada en cubos",
+      "4 papas peladas y cortadas en cubos",
+      "2 zanahorias medianas peladas y cortadas en cubos",
+      "1 cebolla grande cortada en cubos",
+      "2 dientes de ajo picados",
+      "1/2 taza de caldo de carne",
+      "1/2 taza de vino tinto",
+      "Aceite de oliva",
+      "Sal y pimienta a gusto"
+    ],
+    "receta": [
+      "Calentar un poco de aceite de oliva en una olla grande a fuego medio.",
+      "Agregar la carne y cocinar por unos minutos hasta que esté dorada.",
+      "Retirar la carne y reservar.",
+      "Agregar un poco más de aceite de oliva a la misma olla y añadir las zanahorias, la cebolla y el ajo.",
+      "Saltear por unos minutos hasta que las verduras estén tiernas.",
+      "Agregar la carne a la olla con las verduras y mezclar bien.",
+      "Agregar el caldo de carne y el vino tinto, y mezclar.",
+      "Condimentar con sal y pimienta a gusto.",
+      "Dejar cocinar a fuego bajo por unos 30-40 minutos, hasta que la carne esté tierna y las papas estén cocidas.",
+      "Dejar enfriar y guardar en un recipiente hermético para llevar como vianda."
+    ]
+  },
+  {
+    "nombre": "Churrasco a la plancha",
+    "ingredientes": [
+      "4 churrascos de carne de vaca",
+      "2 dientes de ajo picados",
+      "1 cucharada de perejil fresco picado",
+      "Aceite de oliva",
+      "Sal y pimienta negra molida"
+    ],
+    "receta": [
+      "1. Mezcla el ajo y el perejil en un tazón pequeño y agrega suficiente aceite de oliva para cubrir.",
+      "2. Sazona los churrascos con sal y pimienta por ambos lados.",
+      "3. Calienta una sartén o parrilla a fuego medio-alto y agrega los churrascos.",
+      "4. Cocina los churrascos por ambos lados durante unos 5-7 minutos o hasta que estén dorados por fuera y jugosos por dentro.",
+      "5. Sirve los churrascos con la mezcla de aceite de oliva, ajo y perejil."
+    ]
+  },
+  {
+    "nombre": "Milanesa de cerdo a la napolitana",
+    "ingredientes": [
+      "4 milanesas de cerdo",
+      "2 huevos",
+      "Pan rallado",
+      "Sal y pimienta negra molida",
+      "4 lonchas de jamón cocido",
+      "4 rodajas de tomate",
+      "4 rodajas de queso mozzarella"
+    ],
+    "receta": [
+      "1. Sazona las milanesas con sal y pimienta por ambos lados.",
+      "2. Bate los huevos en un tazón pequeño.",
+      "3. Cubre las milanesas con huevo batido y luego con pan rallado.",
+      "4. Calienta una sartén con suficiente aceite para cubrir el fondo a fuego medio.",
+      "5. Agrega las milanesas y cocina por ambos lados hasta que estén doradas y cocidas por dentro.",
+      "6. Precalienta el horno a 180°C.",
+      "7. Coloca las milanesas en una bandeja para horno y agrega una loncha de jamón cocido, una rodaja de tomate y una rodaja de queso mozzarella encima de cada una.",
+      "8. Hornea durante unos 10 minutos o hasta que el queso se haya derretido y esté dorado.",
+      "9. Sirve caliente."
+    ]
+  },
+  {
+    "nombre": "Bondiola a la cerveza",
+    "ingredientes": [
+      "1 bondiola de cerdo de 1 kg",
+      "500 ml de cerveza negra",
+      "2 cebollas",
+      "4 dientes de ajo",
+      "2 hojas de laurel",
+      "Aceite de oliva",
+      "Sal y pimienta a gusto"
+    ],
+    "receta": [
+      "Picar las cebollas y los dientes de ajo y sofreír en una olla con aceite de oliva hasta que estén dorados.",
+      "Agregar la bondiola y dorar por todos lados.",
+      "Incorporar la cerveza, las hojas de laurel, sal y pimienta a gusto y cocinar a fuego medio-bajo durante aproximadamente 2 horas, hasta que la carne esté bien tierna.",
+      "Retirar del fuego, cortar en rodajas y servir caliente."
+    ]
+  }
+]

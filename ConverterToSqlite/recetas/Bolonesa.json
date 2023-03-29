@@ -1,0 +1,105 @@
+[
+  {
+    "nombre": "Empanadas de Carne con Salsa Boloñesa",
+    "ingredientes": [
+      "Masa para empanadas (16 discos)",
+      "500g de carne picada",
+      "1 cebolla",
+      "2 dientes de ajo",
+      "1 pimiento rojo",
+      "1/2 taza de salsa de tomate",
+      "Aceitunas verdes (opcional)",
+      "1 huevo",
+      "Aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "instrucciones": [
+      "Precalentar el horno a 200°C.",
+      "Picar la cebolla, el ajo y el pimiento rojo.",
+      "En una sartén grande, calentar aceite de oliva y saltear la cebolla, el ajo y el pimiento hasta que estén tiernos.",
+      "Agregar la carne picada y cocinar hasta que esté dorada.",
+      "Añadir la salsa de tomate y las aceitunas (si se desea).",
+      "Cocinar a fuego lento durante unos minutos hasta que la salsa se haya espesado.",
+      "Colocar los discos de empanada en una superficie plana y rellenar con la mezcla de carne.",
+      "Cerrar las empanadas y sellar los bordes con un tenedor.",
+      "Batir un huevo y pincelar la parte superior de cada empanada.",
+      "Colocar las empanadas en una bandeja para horno y hornear durante 20-25 minutos o hasta que estén doradas."
+    ]
+  },
+  {
+    "nombre": "Milanesa con Salsa Boloñesa",
+    "ingredientes": [
+      "4 milanesas de carne",
+      "1/2 taza de harina de almendra",
+      "1 huevo",
+      "1 taza de pan rallado sin gluten",
+      "Aceite de oliva",
+      "Sal y pimienta",
+      "Para la salsa boloñesa:",
+      "500g de carne picada",
+      "1 cebolla",
+      "2 dientes de ajo",
+      "1/2 taza de salsa de tomate",
+      "1/4 taza de caldo de carne",
+      "1 cucharada de orégano",
+      "1/4 taza de vino tinto",
+      "Aceitunas verdes picadas (opcional)"
+    ],
+    "instrucciones": [
+      "Precalentar el horno a 200°C.",
+      "Salpimentar las milanesas de carne.",
+      "En tres platos diferentes, colocar la harina de almendra, el huevo batido y el pan rallado.",
+      "Pasar cada milanesa por la harina, luego por el huevo y finalmente por el pan rallado.",
+      "Calentar aceite de oliva en una sartén grande y dorar las milanesas a fuego medio-alto durante 3-4 minutos por lado o hasta que estén doradas.",
+      "Retirar las milanesas de la sartén y colocarlas en una fuente para horno.",
+      "En la misma sartén, agregar un poco más de aceite de oliva si es necesario y saltear la cebolla y el ajo hasta que estén tiernos.",
+      "Agregar la carne picada y cocinar hasta que esté dorada.",
+      "Añadir la salsa de tomate, el caldo de carne, el orégano y el vino tinto.",
+      "Cocinar a fuego lento durante unos minutos hasta que la salsa se haya espesado.",
+      "Agregar las aceitunas picadas (opcional) y verter la salsa sobre las milanesas en la fuente para horno.",
+      "Hornear durante 10-15 minutos o hasta que la salsa esté burbujeante."
+    ]
+  },
+  {
+    "nombre": "Bolonesa de carne con zanahoria y calabacín",
+    "ingredientes": [
+      "500 gramos de carne picada",
+      "1 cebolla picada",
+      "1 zanahoria rallada",
+      "1 calabacín rallado",
+      "1 lata de tomate triturado",
+      "2 dientes de ajo picados",
+      "Sal y pimienta al gusto",
+      "Aceite de oliva"
+    ],
+    "receta": [
+      "En una sartén grande, calentar un poco de aceite de oliva y dorar la cebolla y el ajo.",
+      "Añadir la carne picada y cocinar hasta que esté dorada.",
+      "Agregar la zanahoria y el calabacín rallados y saltear durante unos minutos.",
+      "Añadir la lata de tomate triturado y dejar cocinar a fuego lento durante unos 20-30 minutos, removiendo de vez en cuando.",
+      "Salpimentar al gusto.",
+      "Dejar enfriar y servir como vianda."
+    ]
+  },
+  {
+    "nombre": "Bolonesa de pollo con espinacas y zanahoria",
+    "ingredientes": [
+      "500 gramos de pollo picado",
+      "1 cebolla picada",
+      "2 dientes de ajo picados",
+      "1 zanahoria rallada",
+      "2 tazas de espinacas frescas",
+      "1 lata de tomate triturado",
+      "Sal y pimienta al gusto",
+      "Aceite de oliva"
+    ],
+    "receta": [
+      "En una sartén grande, calentar un poco de aceite de oliva y dorar la cebolla y el ajo.",
+      "Añadir el pollo picado y cocinar hasta que esté dorado.",
+      "Agregar la zanahoria rallada y las espinacas frescas y saltear durante unos minutos.",
+      "Añadir la lata de tomate triturado y dejar cocinar a fuego lento durante unos 20-30 minutos, removiendo de vez en cuando.",
+      "Salpimentar al gusto.",
+      "Dejar enfriar y servir como vianda."
+    ]
+  }
+]

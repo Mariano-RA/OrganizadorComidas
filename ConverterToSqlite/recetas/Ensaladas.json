@@ -1,0 +1,116 @@
+[
+  {
+    "nombre": "Ensalada de lentejas y tomates",
+    "ingredientes": [
+      "1 taza de lentejas cocidas",
+      "2 tomates grandes cortados en cubos",
+      "1 cebolla roja picada",
+      "1/4 taza de aceitunas negras picadas",
+      "1/4 taza de queso fresco rallado",
+      "3 cucharadas de aceite de oliva",
+      "2 cucharadas de vinagre de vino tinto",
+      "Sal y pimienta a gusto"
+    ],
+    "receta": [
+      "En un bol grande, mezclar las lentejas cocidas, los tomates cortados en cubos, la cebolla roja picada y las aceitunas negras picadas.",
+      "Agregar el aceite de oliva y el vinagre de vino tinto, y mezclar bien.",
+      "Salpimentar a gusto y agregar el queso fresco rallado por encima.",
+      "Refrigerar durante al menos 30 minutos antes de servir."
+    ]
+  },
+  {
+    "nombre": "Ensalada de pollo y palta",
+    "ingredientes": [
+      "2 pechugas de pollo cocidas y cortadas en cubos",
+      "2 paltas maduras cortadas en cubos",
+      "1/2 cebolla roja picada",
+      "1/4 taza de cilantro fresco picado",
+      "2 cucharadas de aceite de oliva",
+      "2 cucharadas de jugo de limón",
+      "Sal y pimienta a gusto"
+    ],
+    "receta": [
+      "En un bol grande, mezclar los cubos de pollo, las paltas cortadas en cubos, la cebolla roja picada y el cilantro fresco picado.",
+      "Agregar el aceite de oliva y el jugo de limón, y mezclar bien.",
+      "Salpimentar a gusto y refrigerar durante al menos 30 minutos antes de servir."
+    ]
+  },
+  {
+    "nombre": "Ensalada de remolacha y huevo",
+    "ingredientes": [
+      "2 remolachas medianas cocidas y cortadas en cubos",
+      "4 huevos cocidos y picados",
+      "1/2 taza de nueces picadas",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharada de mostaza dijon",
+      "1 cucharada de miel",
+      "2 cucharadas de vinagre balsámico",
+      "Sal y pimienta a gusto"
+    ],
+    "receta": [
+      "En un bol grande, mezclar los cubos de remolacha, los huevos picados y las nueces picadas.",
+      "En un tazón aparte, mezclar el aceite de oliva, la mostaza dijon, la miel y el vinagre balsámico.",
+      "Agregar la mezcla de aderezo a la ensalada y mezclar bien.",
+      "Salpimentar a gusto y refrigerar durante al menos 30 minutos antes de servir."
+    ]
+  },
+  {
+    "nombre": "Ensalada de espinacas y queso de cabra",
+    "ingredientes": [
+      "4 tazas de espinacas frescas",
+      "1/2 taza de queso de cabra desmoronado",
+      "1/4 taza de nueces picadas",
+      "1/4 taza de arándanos secos",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharada de miel",
+      "2 cucharadas de vinagre balsámico",
+      "Sal y pimienta a gusto"
+    ],
+    "receta": [
+      "En un bol grande, mezclar las espinacas frescas, el queso de cabra desmoronado, las nueces picadas y los arándanos secos.",
+      "En un tazón aparte, mezclar el aceite de oliva, la miel y el vinagre balsámico.",
+      "Agregar la mezcla de aderezo a la ensalada y mezclar bien.",
+      "Salpimentar a gusto y refrigerar durante al menos 30 minutos antes de servir."
+    ]
+  },
+  {
+    "nombre": "Ensalada de zanahoria y manzana",
+    "ingredientes": [
+      "3 zanahorias medianas ralladas",
+      "1 manzana verde pelada y cortada en cubos pequeños",
+      "1/4 taza de pasas de uva",
+      "1/4 taza de nueces picadas",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharada de mostaza dijon",
+      "1 cucharada de miel",
+      "2 cucharadas de vinagre de sidra",
+      "Sal y pimienta a gusto"
+    ],
+    "receta": [
+      "En un bol grande, mezclar las zanahorias ralladas, los cubos de manzana, las pasas de uva y las nueces picadas.",
+      "En un tazón aparte, mezclar el aceite de oliva, la mostaza dijon, la miel y el vinagre de sidra.",
+      "Agregar la mezcla de aderezo a la ensalada y mezclar bien.",
+      "Salpimentar a gusto y refrigerar durante al menos 30 minutos antes de servir."
+    ]
+  },
+  {
+    "nombre": "Ensalada de repollo y zanahoria",
+    "ingredientes": [
+      "1/2 repollo mediano rallado",
+      "2 zanahorias medianas ralladas",
+      "1/2 cebolla roja picada",
+      "1/4 taza de cilantro fresco picado",
+      "1/4 taza de aceite de oliva",
+      "2 cucharadas de jugo de limón",
+      "1 cucharada de mostaza dijon",
+      "1 cucharada de miel",
+      "Sal y pimienta a gusto"
+    ],
+    "receta": [
+      "En un bol grande, mezclar el repollo rallado, las zanahorias ralladas, la cebolla roja picada y el cilantro fresco picado.",
+      "En un tazón aparte, mezclar el aceite de oliva, el jugo de limón, la mostaza dijon y la miel.",
+      "Agregar la mezcla de aderezo a la ensalada y mezclar bien.",
+      "Salpimentar a gusto y refrigerar durante al menos 30 minutos antes de servir."
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "nombre": "Guiso de lentejas",
+    "ingredientes": [
+      "1 taza de lentejas",
+      "1 cebolla grande",
+      "2 dientes de ajo",
+      "1 zanahoria grande",
+      "1 pimiento rojo",
+      "1 pimiento verde",
+      "1 tomate grande",
+      "2 papas",
+      "1 chorizo",
+      "1/2 taza de vino tinto",
+      "1 litro de caldo de pollo",
+      "Aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "receta": [
+      "Pela y pica la cebolla, los ajos, la zanahoria, los pimientos y el tomate.",
+      "Corta las papas en cubos.",
+      "En una olla grande, calienta un poco de aceite de oliva y dora el chorizo. Retíralo de la olla y reserva.",
+      "En la misma olla, agrega un poco más de aceite si es necesario y sofríe la cebolla y el ajo hasta que estén dorados.",
+      "Agrega la zanahoria, los pimientos y el tomate. Sofríe por unos minutos hasta que estén blandos.",
+      "Agrega las lentejas, las papas, el chorizo, el vino y el caldo de pollo. Revuelve todo bien.",
+      "Deja que el guiso hierva a fuego alto y luego baja el fuego a medio-bajo. Cocina tapado por 45 minutos o hasta que las lentejas estén suaves y el guiso esté espeso.",
+      "Prueba y ajusta la sazón con sal y pimienta.",
+      "Sirve caliente."
+    ]
+  }
+]

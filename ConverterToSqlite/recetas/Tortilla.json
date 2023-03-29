@@ -1,0 +1,87 @@
+[
+  {
+    "nombre": "Tortilla de calabacín y queso",
+    "ingredientes": [
+      "2 calabacines rallados",
+      "1 cebolla picada",
+      "3 huevos",
+      "1/2 taza de queso rallado",
+      "Sal y pimienta al gusto",
+      "Aceite de oliva"
+    ],
+    "receta": [
+      "En un recipiente, mezclar los calabacines rallados, la cebolla picada, los huevos batidos, el queso rallado, la sal y la pimienta.",
+      "Calentar un poco de aceite de oliva en una sartén y verter la mezcla.",
+      "Cocinar a fuego medio durante unos 10-15 minutos, hasta que esté dorada por ambos lados.",
+      "Dejar enfriar y servir como vianda."
+    ]
+  },
+  {
+    "nombre": "Tortilla de espinacas y queso",
+    "ingredientes": [
+      "2 tazas de espinacas frescas",
+      "1 cebolla picada",
+      "3 huevos",
+      "1/2 taza de queso rallado",
+      "Sal y pimienta al gusto",
+      "Aceite de oliva"
+    ],
+    "receta": [
+      "En un recipiente, mezclar las espinacas frescas picadas, la cebolla picada, los huevos batidos, el queso rallado, la sal y la pimienta.",
+      "Calentar un poco de aceite de oliva en una sartén y verter la mezcla.",
+      "Cocinar a fuego medio durante unos 10-15 minutos, hasta que esté dorada por ambos lados.",
+      "Dejar enfriar y servir como vianda."
+    ]
+  },
+  {
+    "nombre": "Tortilla de papas y cebolla",
+    "ingredientes": [
+      "4 papas grandes peladas y cortadas en cubos pequeños",
+      "1 cebolla grande cortada en cubos pequeños",
+      "6 huevos",
+      "Aceite de oliva",
+      "Sal y pimienta al gusto"
+    ],
+    "receta": [
+      "Calentar aceite de oliva en una sartén y agregar las papas y la cebolla. Cocinar a fuego medio-bajo hasta que estén tiernas y doradas, aproximadamente 20 minutos.",
+      "Batir los huevos en un tazón grande. Agregar las papas y la cebolla a los huevos y mezclar bien.",
+      "Agregar sal y pimienta al gusto.",
+      "Calentar una sartén grande y verter la mezcla de huevo y papa. Cocinar a fuego medio-bajo durante unos 10 minutos, hasta que la tortilla esté dorada en la parte inferior.",
+      "Dar vuelta la tortilla con la ayuda de un plato y cocinar la otra cara durante otros 5 minutos aproximadamente.",
+      "Dejar enfriar y servir como vianda."
+    ]
+  },
+  {
+    "nombre": "Tortilla de acelga y queso",
+    "ingredientes": [
+      "1 atado de acelga cocida y picada",
+      "4 huevos",
+      "1/2 taza de queso rallado",
+      "Sal y pimienta al gusto",
+      "Aceite de oliva"
+    ],
+    "receta": [
+      "En un recipiente, mezclar los huevos batidos, la acelga cocida y picada, el queso rallado, la sal y la pimienta.",
+      "Calentar un poco de aceite de oliva en una sartén y verter la mezcla.",
+      "Cocinar a fuego medio durante unos 10-15 minutos, hasta que esté dorada por ambos lados.",
+      "Dejar enfriar y servir como vianda."
+    ]
+  },
+  {
+    "nombre": "Tortilla de zapallitos y queso",
+    "ingredientes": [
+      "2 zapallitos verdes rallados",
+      "1 cebolla picada",
+      "3 huevos",
+      "1/2 taza de queso rallado",
+      "Sal y pimienta al gusto",
+      "Aceite de oliva"
+    ],
+    "receta": [
+      "En un recipiente, mezclar los zapallitos rallados, la cebolla picada, los huevos batidos, el queso rallado, la sal y la pimienta.",
+      "Calentar un poco de aceite de oliva en una sartén y verter la mezcla.",
+      "Cocinar a fuego medio durante unos 10-15 minutos, hasta que esté dorada por ambos lados.",
+      "Dejar enfriar y servir como vianda."
+    ]
+  }
+]
