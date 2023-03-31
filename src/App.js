@@ -17,12 +17,15 @@ function App() {
   const [mostrarDatos, setMostrarDatos] = useState(false);
 
   useEffect(() => {
-    fetch("http://localhost:3000/Comidas")
+    fetch("http://localhost:8080/Comidas")
       .then((response) => response.json())
       .then((comidas) => {
         setComidas(comidas);
       });
-    if (JSON.parse(localStorage.getItem("menus")).length > 0) {
+    if (
+      localStorage.getItem("menus") != null &&
+      JSON.parse(localStorage.getItem("menus")).length > 0
+    ) {
       setMenus(JSON.parse(localStorage.getItem("menus")));
     }
   }, []);
@@ -80,9 +83,10 @@ function App() {
               <tr>
                 <th>Comidas</th>
                 <OverlayTrigger
-                  trigger="click"
+                  trigger={"click"}
                   key="bottom lunes"
                   placement="bottom"
+                  rootClose
                   overlay={
                     <Popover id="popover-positioned-bottom-lun">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
@@ -101,6 +105,7 @@ function App() {
                   trigger="click"
                   key="bottom martes"
                   placement="bottom"
+                  rootClose
                   overlay={
                     <Popover id="popover-positioned-bottom-mar">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
@@ -119,6 +124,7 @@ function App() {
                   trigger="click"
                   key="bottom miercoles"
                   placement="bottom"
+                  rootClose
                   overlay={
                     <Popover id="popover-positioned-bottom-mie">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
@@ -137,6 +143,7 @@ function App() {
                   trigger="click"
                   key="bottom jueves"
                   placement="bottom"
+                  rootClose
                   overlay={
                     <Popover id="popover-positioned-bottom-jue">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
@@ -155,6 +162,7 @@ function App() {
                   trigger="click"
                   key="bottom viernes"
                   placement="bottom"
+                  rootClose
                   overlay={
                     <Popover id="popover-positioned-bottom-vie">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
@@ -173,6 +181,7 @@ function App() {
                   trigger="click"
                   key="bottom sabado"
                   placement="bottom"
+                  rootClose
                   overlay={
                     <Popover id="popover-positioned-bottom-sab">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
@@ -191,6 +200,7 @@ function App() {
                   trigger="click"
                   key="bottom domingo"
                   placement="bottom"
+                  rootClose
                   overlay={
                     <Popover id="popover-positioned-bottom-dom">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
