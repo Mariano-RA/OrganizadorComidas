@@ -7,6 +7,7 @@ import OverlayTrigger from "react-bootstrap/OverlayTrigger";
 import Popover from "react-bootstrap/Popover";
 import { useEffect, useState } from "react";
 import Comida from "./Comida";
+import { ButtonGroup } from "react-bootstrap";
 
 function App() {
   const [comidas, setComidas] = useState();
@@ -90,11 +91,27 @@ function App() {
                   overlay={
                     <Popover id="popover-positioned-bottom-lun">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
-                      <Popover.Body>
-                        <Row>
-                          <Col onClick={() => rehacerMenu(0)}>Almuerzo</Col>
-                          <Col onClick={() => rehacerMenu(7)}>Cena</Col>
-                        </Row>
+                      <Popover.Body className="p-0">
+                        <ButtonGroup>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(0)}
+                            style={{
+                              borderTopLeftRadius: 0,
+                            }}
+                          >
+                            Almuerzo
+                          </Button>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(7)}
+                            style={{
+                              borderTopRightRadius: 0,
+                            }}
+                          >
+                            Cena
+                          </Button>
+                        </ButtonGroup>
                       </Popover.Body>
                     </Popover>
                   }
@@ -109,11 +126,27 @@ function App() {
                   overlay={
                     <Popover id="popover-positioned-bottom-mar">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
-                      <Popover.Body>
-                        <Row>
-                          <Col onClick={() => rehacerMenu(1)}>Almuerzo</Col>
-                          <Col onClick={() => rehacerMenu(8)}>Cena</Col>
-                        </Row>
+                      <Popover.Body className="p-0">
+                        <ButtonGroup>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(1)}
+                            style={{
+                              borderTopLeftRadius: 0,
+                            }}
+                          >
+                            Almuerzo
+                          </Button>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(8)}
+                            style={{
+                              borderTopRightRadius: 0,
+                            }}
+                          >
+                            Cena
+                          </Button>
+                        </ButtonGroup>
                       </Popover.Body>
                     </Popover>
                   }
@@ -128,11 +161,27 @@ function App() {
                   overlay={
                     <Popover id="popover-positioned-bottom-mie">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
-                      <Popover.Body>
-                        <Row>
-                          <Col onClick={() => rehacerMenu(2)}>Almuerzo</Col>
-                          <Col onClick={() => rehacerMenu(9)}>Cena</Col>
-                        </Row>
+                      <Popover.Body className="p-0">
+                        <ButtonGroup>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(2)}
+                            style={{
+                              borderTopLeftRadius: 0,
+                            }}
+                          >
+                            Almuerzo
+                          </Button>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(9)}
+                            style={{
+                              borderTopRightRadius: 0,
+                            }}
+                          >
+                            Cena
+                          </Button>
+                        </ButtonGroup>
                       </Popover.Body>
                     </Popover>
                   }
@@ -147,11 +196,27 @@ function App() {
                   overlay={
                     <Popover id="popover-positioned-bottom-jue">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
-                      <Popover.Body>
-                        <Row>
-                          <Col onClick={() => rehacerMenu(3)}>Almuerzo</Col>
-                          <Col onClick={() => rehacerMenu(10)}>Cena</Col>
-                        </Row>
+                      <Popover.Body className="p-0">
+                        <ButtonGroup>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(3)}
+                            style={{
+                              borderTopLeftRadius: 0,
+                            }}
+                          >
+                            Almuerzo
+                          </Button>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(10)}
+                            style={{
+                              borderTopRightRadius: 0,
+                            }}
+                          >
+                            Cena
+                          </Button>
+                        </ButtonGroup>
                       </Popover.Body>
                     </Popover>
                   }
@@ -166,11 +231,27 @@ function App() {
                   overlay={
                     <Popover id="popover-positioned-bottom-vie">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
-                      <Popover.Body>
-                        <Row>
-                          <Col onClick={() => rehacerMenu(4)}>Almuerzo</Col>
-                          <Col onClick={() => rehacerMenu(11)}>Cena</Col>
-                        </Row>
+                      <Popover.Body className="p-0">
+                        <ButtonGroup>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(4)}
+                            style={{
+                              borderTopLeftRadius: 0,
+                            }}
+                          >
+                            Almuerzo
+                          </Button>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(11)}
+                            style={{
+                              borderTopRightRadius: 0,
+                            }}
+                          >
+                            Cena
+                          </Button>
+                        </ButtonGroup>
                       </Popover.Body>
                     </Popover>
                   }
@@ -185,11 +266,27 @@ function App() {
                   overlay={
                     <Popover id="popover-positioned-bottom-sab">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
-                      <Popover.Body>
-                        <Row>
-                          <Col onClick={() => rehacerMenu(5)}>Almuerzo</Col>
-                          <Col onClick={() => rehacerMenu(12)}>Cena</Col>
-                        </Row>
+                      <Popover.Body className="p-0">
+                        <ButtonGroup>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(5)}
+                            style={{
+                              borderTopLeftRadius: 0,
+                            }}
+                          >
+                            Almuerzo
+                          </Button>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(12)}
+                            style={{
+                              borderTopRightRadius: 0,
+                            }}
+                          >
+                            Cena
+                          </Button>
+                        </ButtonGroup>
                       </Popover.Body>
                     </Popover>
                   }
@@ -204,11 +301,27 @@ function App() {
                   overlay={
                     <Popover id="popover-positioned-bottom-dom">
                       <Popover.Header as="h3">Rehacer menu</Popover.Header>
-                      <Popover.Body>
-                        <Row>
-                          <Col onClick={() => rehacerMenu(6)}>Almuerzo</Col>
-                          <Col onClick={() => rehacerMenu(13)}>Cena</Col>
-                        </Row>
+                      <Popover.Body className="p-0">
+                        <ButtonGroup>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(6)}
+                            style={{
+                              borderTopLeftRadius: 0,
+                            }}
+                          >
+                            Almuerzo
+                          </Button>
+                          <Button
+                            variant="outline-success"
+                            onClick={() => rehacerMenu(13)}
+                            style={{
+                              borderTopRightRadius: 0,
+                            }}
+                          >
+                            Cena
+                          </Button>
+                        </ButtonGroup>
                       </Popover.Body>
                     </Popover>
                   }
