@@ -1,135 +1,140 @@
 [
   {
     "nombre": "Pollo a la parrilla con chimichurri",
-    "ingredientes": [
-      "4 pechugas de pollo",
-      "Aceite de oliva",
-      "Sal",
-      "Pimienta negra",
-      "Para el chimichurri:",
-      "1/2 taza de aceite de oliva",
-      "1/4 taza de vinagre de vino rojo",
-      "2 dientes de ajo picados",
-      "1/2 taza de perejil picado",
-      "1/4 taza de orégano",
-      "1/4 cucharadita de sal",
-      "1/4 cucharadita de pimienta negra"
-    ],
-    "instrucciones": [
+    "guarnicion": false,
+    "pasos": [
       "Precalentar la parrilla a fuego medio-alto.",
       "Pincelar las pechugas de pollo con aceite de oliva y sazonar con sal y pimienta.",
       "Colocar las pechugas en la parrilla y cocinar durante 5-7 minutos por lado o hasta que estén cocidas.",
       "Para hacer el chimichurri, combinar el aceite de oliva, el vinagre de vino rojo, el ajo picado, el perejil picado, el orégano, la sal y la pimienta en un tazón pequeño.",
       "Mezclar bien y servir con el pollo a la parrilla."
+    ],
+    "ingredientes": [
+      { "nombre": "pechugas de pollo", "cantidad": "4" },
+      { "nombre": "aceite de oliva", "cantidad": "al gusto" },
+      { "nombre": "sal", "cantidad": "al gusto" },
+      { "nombre": "pimienta negra", "cantidad": "al gusto" },
+      { "nombre": "aceite de oliva", "cantidad": "1/2 taza" },
+      { "nombre": "vinagre de vino rojo", "cantidad": "1/4 taza" },
+      { "nombre": "ajo picado", "cantidad": "2 dientes" },
+      { "nombre": "perejil picado", "cantidad": "1/2 taza" },
+      { "nombre": "orégano", "cantidad": "1/4 taza" },
+      { "nombre": "sal", "cantidad": "1/4 cucharadita" },
+      { "nombre": "pimienta negra", "cantidad": "1/4 cucharadita" }
     ]
   },
   {
     "nombre": "Ensalada de pollo con vegetales",
-    "ingredientes": [
-      "2 pechugas de pollo cocidas y desmenuzadas",
-      "1 taza de tomates cherry cortados por la mitad",
-      "1 taza de pepino en cubos",
-      "1 taza de zanahoria en cubos",
-      "1/2 taza de cebolla roja picada",
-      "1/2 taza de aceitunas negras sin hueso",
-      "1/4 taza de aceite de oliva",
-      "2 cucharadas de vinagre de vino rojo",
-      "1 cucharada de mostaza dijon",
-      "1 diente de ajo picado",
-      "Sal",
-      "Pimienta negra"
-    ],
-    "instrucciones": [
+    "guarnicion": true,
+    "pasos": [
       "En un tazón grande, combinar las pechugas de pollo desmenuzadas, los tomates cherry cortados por la mitad, el pepino en cubos, la zanahoria en cubos, la cebolla roja picada y las aceitunas negras sin hueso.",
       "En otro tazón pequeño, mezclar el aceite de oliva, el vinagre de vino rojo, la mostaza dijon, el ajo picado, la sal y la pimienta negra.",
       "Verter la mezcla de aderezo sobre la ensalada y mezclar bien.",
       "Servir frío."
+    ],
+    "ingredientes": [
+      { "nombre": "pechugas de pollo cocidas y desmenuzadas", "cantidad": "2" },
+      { "nombre": "tomates cherry cortados por la mitad", "cantidad": "1 taza" },
+      { "nombre": "pepino en cubos", "cantidad": "1 taza" },
+      { "nombre": "zanahoria en cubos", "cantidad": "1 taza" },
+      { "nombre": "cebolla roja picada", "cantidad": "1/2 taza" },
+      { "nombre": "aceitunas negras sin hueso", "cantidad": "1/2 taza" },
+      { "nombre": "aceite de oliva", "cantidad": "1/4 taza" },
+      { "nombre": "vinagre de vino rojo", "cantidad": "2 cucharadas" },
+      { "nombre": "mostaza dijon", "cantidad": "1 cucharada" },
+      { "nombre": "ajo picado", "cantidad": "1 diente" },
+      { "nombre": "sal", "cantidad": "al gusto" },
+      { "nombre": "pimienta negra", "cantidad": "al gusto" }
     ]
   },
   {
     "nombre": "Pollo al horno con verduras",
-    "ingredientes": [
-      "4 pechugas de pollo",
-      "2 zanahorias peladas y cortadas en rodajas",
-      "1 cebolla cortada en cuartos",
-      "1 pimiento rojo cortado en tiras",
-      "1 pimiento verde cortado en tiras",
-      "2 dientes de ajo picados",
-      "1/4 taza de aceite de oliva",
-      "Sal",
-      "Pimienta negra"
-    ],
-    "instrucciones": [
+    "guarnicion": false,
+    "pasos": [
       "Precalentar el horno a 200°C.",
       "En una bandeja para horno, colocar las pechugas de pollo y las verduras.",
       "Agregar el ajo picado, el aceite de oliva, la sal y la pimienta negra.",
       "Mezclar bien para cubrir todas las verduras y el pollo con el aceite y las especias.",
       "Hornear durante 25-30 minutos o hasta que el pollo esté cocido.",
       "Servir caliente o frío."
+    ],
+    "ingredientes": [
+      { "nombre": "pechugas de pollo", "cantidad": "4" },
+      { "nombre": "zanahorias peladas y cortadas en rodajas", "cantidad": "2" },
+      { "nombre": "cebolla cortada en cuartos", "cantidad": "1" },
+      { "nombre": "pimiento rojo cortado en tiras", "cantidad": "1" },
+      { "nombre": "pimiento verde cortado en tiras", "cantidad": "1" },
+      { "nombre": "ajo picado", "cantidad": "2 dientes" },
+      { "nombre": "aceite de oliva", "cantidad": "1/4 taza" },
+      { "nombre": "sal", "cantidad": "al gusto" },
+      { "nombre": "pimienta negra", "cantidad": "al gusto" }
     ]
   },
   {
     "nombre": "Ensalada de pollo y aguacate",
-    "ingredientes": [
-      "2 pechugas de pollo cocidas y desmenuzadas",
-      "2 aguacates maduros cortados en cubos",
-      "1 taza de tomates cherry cortados por la mitad",
-      "1/2 taza de cebolla roja picada",
-      "1/4 taza de cilantro picado",
-      "2 cucharadas de aceite de oliva",
-      "2 cucharadas de jugo de limón",
-      "Sal",
-      "Pimienta negra"
-    ],
-    "instrucciones": [
+    "guarnicion": true,
+    "pasos": [
       "En un tazón grande, combinar las pechugas de pollo desmenuzadas, los aguacates cortados en cubos, los tomates cherry cortados por la mitad, la cebolla roja picada y el cilantro picado.",
       "En otro tazón pequeño, mezclar el aceite de oliva, el jugo de limón, la sal y la pimienta negra.",
       "Verter la mezcla de aderezo sobre la ensalada y mezclar bien.",
       "Servir frío."
+    ],
+    "ingredientes": [
+      { "nombre": "pechugas de pollo cocidas y desmenuzadas", "cantidad": "2" },
+      { "nombre": "aguacates maduros cortados en cubos", "cantidad": "2" },
+      { "nombre": "tomates cherry cortados por la mitad", "cantidad": "1 taza" },
+      { "nombre": "cebolla roja picada", "cantidad": "1/2 taza" },
+      { "nombre": "cilantro picado", "cantidad": "1/4 taza" },
+      { "nombre": "aceite de oliva", "cantidad": "2 cucharadas" },
+      { "nombre": "jugo de limón", "cantidad": "2 cucharadas" },
+      { "nombre": "sal", "cantidad": "al gusto" },
+      { "nombre": "pimienta negra", "cantidad": "al gusto" }
     ]
   },
   {
     "nombre": "Pollo con salsa de tomate y albahaca",
-    "ingredientes": [
-      "4 pechugas de pollo",
-      "2 tazas de tomates pelados y picados",
-      "1 cebolla picada",
-      "3 dientes de ajo picados",
-      "1/4 taza de hojas de albahaca picada",
-      "2 cucharadas de aceite de oliva",
-      "Sal",
-      "Pimienta negra"
-    ],
-    "instrucciones": [
+    "guarnicion": false,
+    "pasos": [
       "En una sartén grande, calentar el aceite de oliva a fuego medio.",
       "Agregar la cebolla y el ajo, y cocinar hasta que estén dorados.",
       "Agregar los tomates picados, la sal y la pimienta negra, y cocinar durante 10 minutos hasta que la salsa espese.",
       "Agregar las pechugas de pollo a la sartén y cocinar por ambos lados hasta que estén doradas.",
       "Bajar el fuego, tapar la sartén y cocinar durante 10-15 minutos hasta que el pollo esté cocido.",
       "Servir caliente con la salsa de tomate y albahaca por encima."
+    ],
+    "ingredientes": [
+      { "nombre": "pechugas de pollo", "cantidad": "4" },
+      { "nombre": "tomates pelados y picados", "cantidad": "2 tazas" },
+      { "nombre": "cebolla picada", "cantidad": "1" },
+      { "nombre": "ajo picado", "cantidad": "3 dientes" },
+      { "nombre": "hojas de albahaca picada", "cantidad": "1/4 taza" },
+      { "nombre": "aceite de oliva", "cantidad": "2 cucharadas" },
+      { "nombre": "sal", "cantidad": "al gusto" },
+      { "nombre": "pimienta negra", "cantidad": "al gusto" }
     ]
   },
   {
     "nombre": "Pollo con vegetales al wok",
-    "ingredientes": [
-      "2 pechugas de pollo cortadas en tiras",
-      "1 taza de zanahorias cortadas en tiras",
-      "1 taza de pimiento rojo cortado en tiras",
-      "1 taza de pimiento verde cortado en tiras",
-      "1 taza de cebolla cortada en tiras",
-      "3 dientes de ajo picados",
-      "1/4 taza de salsa de soja",
-      "2 cucharadas de aceite de oliva",
-      "Sal",
-      "Pimienta negra"
-    ],
-    "instrucciones": [
+    "guarnicion": false,
+    "pasos": [
       "Calentar el aceite de oliva en un wok a fuego alto.",
       "Agregar el ajo picado y cocinar por unos segundos.",
       "Agregar las tiras de pollo y cocinar hasta que estén doradas.",
       "Agregar las zanahorias, el pimiento rojo, el pimiento verde y la cebolla, y saltear durante 5-7 minutos hasta que los vegetales estén cocidos pero crujientes.",
       "Agregar la salsa de soja y mezclar bien.",
       "Servir caliente."
+    ],
+    "ingredientes": [
+      { "nombre": "pechugas de pollo cortadas en tiras", "cantidad": "2" },
+      { "nombre": "zanahorias cortadas en tiras", "cantidad": "1 taza" },
+      { "nombre": "pimiento rojo cortado en tiras", "cantidad": "1 taza" },
+      { "nombre": "pimiento verde cortado en tiras", "cantidad": "1 taza" },
+      { "nombre": "cebolla cortada en tiras", "cantidad": "1 taza" },
+      { "nombre": "ajo picado", "cantidad": "3 dientes" },
+      { "nombre": "salsa de soja", "cantidad": "1/4 taza" },
+      { "nombre": "aceite de oliva", "cantidad": "2 cucharadas" },
+      { "nombre": "sal", "cantidad": "al gusto" },
+      { "nombre": "pimienta negra", "cantidad": "al gusto" }
     ]
   }
 ]

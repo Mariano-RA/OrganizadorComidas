@@ -18,7 +18,7 @@ function App() {
   const [mostrarDatos, setMostrarDatos] = useState(false);
 
   useEffect(() => {
-    fetch("http://localhost:8080/Comidas")
+    fetch("http://localhost:3000/Recetas")
       .then((response) => response.json())
       .then((comidas) => {
         setComidas(comidas);
@@ -40,6 +40,17 @@ function App() {
     setMenus(menus);
     localStorage.setItem("menus", JSON.stringify(menus));
   }
+
+  function crearReceta() {
+    const menus = [];
+    for (let i = 0; i < 14; i++) {
+      const id = Math.floor(Math.random() * (comidas.length - 0 + 1) + 0);
+      menus.push(comidas[id]);
+    }
+    setMenus(menus);
+    localStorage.setItem("menus", JSON.stringify(menus));
+  }
+
 
   function rehacerMenu(dia) {
     let idMenu = Math.floor(Math.random() * (comidas.length - 0 + 1) + 0);
@@ -73,6 +84,11 @@ function App() {
         <Col xs={5} md={4} className="m-auto">
           <Button variant="outline-success" onClick={generarMenu}>
             Generar
+          </Button>
+        </Col>
+        <Col xs={5} md={4} className="m-auto">
+          <Button variant="outline-success" onClick={generarMenu}>
+            Agregar Comida
           </Button>
         </Col>
       </Row>

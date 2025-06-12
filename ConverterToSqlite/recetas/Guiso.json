@@ -1,22 +1,8 @@
 [
   {
     "nombre": "Guiso de lentejas",
-    "ingredientes": [
-      "1 taza de lentejas",
-      "1 cebolla grande",
-      "2 dientes de ajo",
-      "1 zanahoria grande",
-      "1 pimiento rojo",
-      "1 pimiento verde",
-      "1 tomate grande",
-      "2 papas",
-      "1 chorizo",
-      "1/2 taza de vino tinto",
-      "1 litro de caldo de pollo",
-      "Aceite de oliva",
-      "Sal y pimienta"
-    ],
-    "receta": [
+    "guarnicion": false,
+    "pasos": [
       "Pela y pica la cebolla, los ajos, la zanahoria, los pimientos y el tomate.",
       "Corta las papas en cubos.",
       "En una olla grande, calienta un poco de aceite de oliva y dora el chorizo. Retíralo de la olla y reserva.",
@@ -26,6 +12,21 @@
       "Deja que el guiso hierva a fuego alto y luego baja el fuego a medio-bajo. Cocina tapado por 45 minutos o hasta que las lentejas estén suaves y el guiso esté espeso.",
       "Prueba y ajusta la sazón con sal y pimienta.",
       "Sirve caliente."
+    ],
+    "ingredientes": [
+      { "nombre": "lentejas", "cantidad": "1 taza" },
+      { "nombre": "cebolla grande", "cantidad": "1" },
+      { "nombre": "dientes de ajo", "cantidad": "2" },
+      { "nombre": "zanahoria grande", "cantidad": "1" },
+      { "nombre": "pimiento rojo", "cantidad": "1" },
+      { "nombre": "pimiento verde", "cantidad": "1" },
+      { "nombre": "tomate grande", "cantidad": "1" },
+      { "nombre": "papas", "cantidad": "2" },
+      { "nombre": "chorizo", "cantidad": "1" },
+      { "nombre": "vino tinto", "cantidad": "1/2 taza" },
+      { "nombre": "caldo de pollo", "cantidad": "1 litro" },
+      { "nombre": "aceite de oliva", "cantidad": "cantidad necesaria" },
+      { "nombre": "sal y pimienta", "cantidad": "a gusto" }
     ]
   }
 ]

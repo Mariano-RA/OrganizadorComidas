@@ -1,105 +1,110 @@
 [
-    {
-        "nombre": "Solomillo con chimichurri",
-        "ingredientes": [
-          "Solomillo (500 gramos)",
-          "Ajo (3 dientes)",
-          "Perejil (1/2 taza)",
-          "Aceite de oliva (1/2 taza)",
-          "Vinagre de vino tinto (3 cucharadas)",
-          "Sal y pimienta al gusto"
-        ],
-        "receta": [
-          "Preparar el chimichurri mezclando en un tazón el ajo picado, el perejil picado, el aceite de oliva, el vinagre de vino tinto y la sal y pimienta al gusto.",
-          "Marinar el solomillo con el chimichurri durante al menos 1 hora en el refrigerador.",
-          "Precalentar una sartén a fuego medio-alto y cocinar el solomillo durante unos 5-7 minutos por cada lado hasta que esté dorado y cocido al punto deseado.",
-          "Dejar reposar el solomillo durante unos minutos antes de cortarlo en rodajas y servirlo caliente con una cucharada de chimichurri por encima."
-        ]
-      },
-      {
-        "nombre": "Solomillo con salsa criolla",
-        "ingredientes": [
-          "Solomillo (500 gramos)",
-          "Tomates (3 unidades)",
-          "Cebolla (1 unidad)",
-          "Pimiento rojo (1 unidad)",
-          "Aceite de oliva (2 cucharadas)",
-          "Vinagre de vino tinto (2 cucharadas)",
-          "Sal y pimienta al gusto"
-        ],
-        "receta": [
-          "Precalentar el horno a 200°C.",
-          "Cortar los tomates en cuartos, la cebolla en rodajas y el pimiento rojo en tiras.",
-          "Colocar las verduras en una bandeja para horno y rociar con aceite de oliva, sal y pimienta al gusto.",
-          "Hornear las verduras durante 15-20 minutos hasta que estén tiernas.",
-          "Mientras tanto, sazonar el solomillo con sal y pimienta al gusto.",
-          "Calentar una sartén a fuego medio-alto y cocinar el solomillo durante 4-5 minutos por cada lado hasta que esté dorado y cocido al punto deseado.",
-          "Dejar reposar el solomillo durante unos minutos antes de cortarlo en rodajas y servirlo caliente con las verduras asadas y una cucharada de salsa criolla por encima.",
-          "Para preparar la salsa criolla, mezclar en un tazón la cebolla picada, el pimiento rojo picado, el vinagre de vino tinto y la sal y pimienta al gusto." 
-        ]
-      },
-      {
-        "nombre": "Solomillo con verduras al horno",
-        "ingredientes": [
-          "Solomillo (500 gramos)",
-          "Zanahoria (2 unidades)",
-          "Papa (2 unidades)",
-          "Cebolla (1 unidad)",
-          "Calabacín (1 unidad)",
-          "Aceite de oliva (3 cucharadas)",
-          "Sal y pimienta al gusto",
-          "Tomillo fresco (al gusto)"
-        ],
-        "receta": [
-          "Precalentar el horno a 200°C.",
-          "Pelar y cortar las zanahorias y las papas en cubos de tamaño similar.",
-          "Cortar la cebolla en rodajas y el calabacín en rodajas finas.",
-          "Colocar las verduras en una bandeja para horno y rociar con aceite de oliva, sal, pimienta y tomillo fresco al gusto.",
-          "Hornear las verduras durante 20-25 minutos hasta que estén tiernas.",
-          "Mientras tanto, sazonar el solomillo con sal y pimienta al gusto.",
-          "Calentar una sartén a fuego medio-alto y cocinar el solomillo durante 4-5 minutos por cada lado hasta que esté dorado y cocido al punto deseado.",
-          "Dejar reposar el solomillo durante unos minutos antes de cortarlo en rodajas y servirlo caliente con las verduras asadas."
-        ]
-      },
-      {
-        "nombre": "Solomillo con ensalada de tomate y cebolla",
-        "ingredientes": [
-          "Solomillo (500 gramos)",
-          "Tomates (3 unidades)",
-          "Cebolla (1 unidad)",
-          "Aceite de oliva (2 cucharadas)",
-          "Vinagre de vino tinto (2 cucharadas)",
-          "Sal y pimienta al gusto",
-          "Hojas de lechuga (al gusto)"
-        ],
-        "receta": [
-          "Sazonar el solomillo con sal y pimienta al gusto.",
-          "Calentar una sartén a fuego medio-alto y cocinar el solomillo durante 4-5 minutos por cada lado hasta que esté dorado y cocido al punto deseado.",
-          "Dejar reposar el solomillo durante unos minutos antes de cortarlo en rodajas.",
-          "Cortar los tomates en rodajas y la cebolla en rodajas finas.",
-          "Colocar las hojas de lechuga en un plato y agregar encima las rodajas de tomate y cebolla.",
-          "Colocar las rodajas de solomillo encima de la ensalada.",
-          "Para preparar el aderezo, mezclar en un tazón el aceite de oliva, el vinagre de vino tinto y la sal y pimienta al gusto.",
-          "Rociar la ensalada y el solomillo con el aderezo antes de servir."
-        ]
-      },
-      {
-        "nombre": "Solomillo con ensalada de rúcula y parmesano",
-        "ingredientes": [
-          "Solomillo (500 gramos)",
-          "Rúcula (2 tazas)",
-          "Parmesano (1/2 taza)",
-          "Aceite de oliva (2 cucharadas)",
-          "Jugo de limón (1 cucharada)",
-          "Sal y pimienta al gusto"
-        ],
-        "receta": [
-          "Sazonar el solomillo con sal y pimienta al gusto.",
-          "Calentar una sartén a fuego medio-alto y cocinar el solomillo durante 4-5 minutos por cada lado hasta que esté dorado y cocido al punto deseado.",
-          "Dejar reposar el solomillo durante unos minutos antes de cortarlo en rodajas.",
-          "En un tazón, mezclar la rúcula con el parmesano rallado, el aceite de oliva, el jugo de limón y la sal y pimienta al gusto.",
-          "Colocar la ensalada en un plato y agregar encima las rodajas de solomillo.",
-          "Servir el solomillo caliente con la ensalada de rúcula y parmesano."
-        ]
-      }
+  {
+    "nombre": "Solomillo con chimichurri",
+    "guarnicion": false,
+    "pasos": [
+      "Preparar el chimichurri mezclando en un tazón el ajo picado, el perejil picado, el aceite de oliva, el vinagre de vino tinto y la sal y pimienta al gusto.",
+      "Marinar el solomillo con el chimichurri durante al menos 1 hora en el refrigerador.",
+      "Precalentar una sartén a fuego medio-alto y cocinar el solomillo durante unos 5-7 minutos por cada lado hasta que esté dorado y cocido al punto deseado.",
+      "Dejar reposar el solomillo durante unos minutos antes de cortarlo en rodajas y servirlo caliente con una cucharada de chimichurri por encima."
+    ],
+    "ingredientes": [
+      { "nombre": "Solomillo", "cantidad": "500 gramos" },
+      { "nombre": "Ajo", "cantidad": "3 dientes" },
+      { "nombre": "Perejil", "cantidad": "1/2 taza" },
+      { "nombre": "Aceite de oliva", "cantidad": "1/2 taza" },
+      { "nombre": "Vinagre de vino tinto", "cantidad": "3 cucharadas" },
+      { "nombre": "Sal y pimienta", "cantidad": "al gusto" }
+    ]
+  },
+  {
+    "nombre": "Solomillo con salsa criolla",
+    "guarnicion": false,
+    "pasos": [
+      "Precalentar el horno a 200°C.",
+      "Cortar los tomates en cuartos, la cebolla en rodajas y el pimiento rojo en tiras.",
+      "Colocar las verduras en una bandeja para horno y rociar con aceite de oliva, sal y pimienta al gusto.",
+      "Hornear las verduras durante 15-20 minutos hasta que estén tiernas.",
+      "Mientras tanto, sazonar el solomillo con sal y pimienta al gusto.",
+      "Calentar una sartén a fuego medio-alto y cocinar el solomillo durante 4-5 minutos por cada lado hasta que esté dorado y cocido al punto deseado.",
+      "Dejar reposar el solomillo durante unos minutos antes de cortarlo en rodajas y servirlo caliente con las verduras asadas y una cucharada de salsa criolla por encima.",
+      "Para preparar la salsa criolla, mezclar en un tazón la cebolla picada, el pimiento rojo picado, el vinagre de vino tinto y la sal y pimienta al gusto."
+    ],
+    "ingredientes": [
+      { "nombre": "Solomillo", "cantidad": "500 gramos" },
+      { "nombre": "Tomates", "cantidad": "3 unidades" },
+      { "nombre": "Cebolla", "cantidad": "1 unidad" },
+      { "nombre": "Pimiento rojo", "cantidad": "1 unidad" },
+      { "nombre": "Aceite de oliva", "cantidad": "2 cucharadas" },
+      { "nombre": "Vinagre de vino tinto", "cantidad": "2 cucharadas" },
+      { "nombre": "Sal y pimienta", "cantidad": "al gusto" }
+    ]
+  },
+  {
+    "nombre": "Solomillo con verduras al horno",
+    "guarnicion": false,
+    "pasos": [
+      "Precalentar el horno a 200°C.",
+      "Pelar y cortar las zanahorias y las papas en cubos de tamaño similar.",
+      "Cortar la cebolla en rodajas y el calabacín en rodajas finas.",
+      "Colocar las verduras en una bandeja para horno y rociar con aceite de oliva, sal, pimienta y tomillo fresco al gusto.",
+      "Hornear las verduras durante 20-25 minutos hasta que estén tiernas.",
+      "Mientras tanto, sazonar el solomillo con sal y pimienta al gusto.",
+      "Calentar una sartén a fuego medio-alto y cocinar el solomillo durante 4-5 minutos por cada lado hasta que esté dorado y cocido al punto deseado.",
+      "Dejar reposar el solomillo durante unos minutos antes de cortarlo en rodajas y servirlo caliente con las verduras asadas."
+    ],
+    "ingredientes": [
+      { "nombre": "Solomillo", "cantidad": "500 gramos" },
+      { "nombre": "Zanahoria", "cantidad": "2 unidades" },
+      { "nombre": "Papa", "cantidad": "2 unidades" },
+      { "nombre": "Cebolla", "cantidad": "1 unidad" },
+      { "nombre": "Calabacín", "cantidad": "1 unidad" },
+      { "nombre": "Aceite de oliva", "cantidad": "3 cucharadas" },
+      { "nombre": "Sal y pimienta", "cantidad": "al gusto" },
+      { "nombre": "Tomillo fresco", "cantidad": "al gusto" }
+    ]
+  },
+  {
+    "nombre": "Solomillo con ensalada de tomate y cebolla",
+    "guarnicion": false,
+    "pasos": [
+      "Sazonar el solomillo con sal y pimienta al gusto.",
+      "Calentar una sartén a fuego medio-alto y cocinar el solomillo durante 4-5 minutos por cada lado hasta que esté dorado y cocido al punto deseado.",
+      "Dejar reposar el solomillo durante unos minutos antes de cortarlo en rodajas.",
+      "Cortar los tomates en rodajas y la cebolla en rodajas finas.",
+      "Colocar las hojas de lechuga en un plato y agregar encima las rodajas de tomate y cebolla.",
+      "Colocar las rodajas de solomillo encima de la ensalada.",
+      "Para preparar el aderezo, mezclar en un tazón el aceite de oliva, el vinagre de vino tinto y la sal y pimienta al gusto.",
+      "Rociar la ensalada y el solomillo con el aderezo antes de servir."
+    ],
+    "ingredientes": [
+      { "nombre": "Solomillo", "cantidad": "500 gramos" },
+      { "nombre": "Tomates", "cantidad": "3 unidades" },
+      { "nombre": "Cebolla", "cantidad": "1 unidad" },
+      { "nombre": "Aceite de oliva", "cantidad": "2 cucharadas" },
+      { "nombre": "Vinagre de vino tinto", "cantidad": "2 cucharadas" },
+      { "nombre": "Sal y pimienta", "cantidad": "al gusto" },
+      { "nombre": "Hojas de lechuga", "cantidad": "al gusto" }
+    ]
+  },
+  {
+    "nombre": "Solomillo con ensalada de rúcula y parmesano",
+    "guarnicion": false,
+    "pasos": [
+      "Sazonar el solomillo con sal y pimienta al gusto.",
+      "Calentar una sartén a fuego medio-alto y cocinar el solomillo durante 4-5 minutos por cada lado hasta que esté dorado y cocido al punto deseado.",
+      "Dejar reposar el solomillo durante unos minutos antes de cortarlo en rodajas.",
+      "En un tazón, mezclar la rúcula con el parmesano rallado, el aceite de oliva, el jugo de limón y la sal y pimienta al gusto.",
+      "Colocar la ensalada en un plato y agregar encima las rodajas de solomillo.",
+      "Servir el solomillo caliente con la ensalada de rúcula y parmesano."
+    ],
+    "ingredientes": [
+      { "nombre": "Solomillo", "cantidad": "500 gramos" },
+      { "nombre": "Rúcula", "cantidad": "2 tazas" },
+      { "nombre": "Parmesano", "cantidad": "1/2 taza" },
+      { "nombre": "Aceite de oliva", "cantidad": "2 cucharadas" },
+      { "nombre": "Jugo de limón", "cantidad": "1 cucharada" },
+      { "nombre": "Sal y pimienta", "cantidad": "al gusto" }
+    ]
+  }
 ]

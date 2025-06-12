@@ -1,117 +1,123 @@
 [
   {
     "nombre": "Hamburguesas de carne a la parrilla",
-    "ingredientes": [
-      "500g de carne picada (preferentemente magra)",
-      "1 huevo",
-      "1 cebolla picada",
-      "1 diente de ajo picado",
-      "Condimentos a gusto (sal, pimienta, orégano, ají molido, etc.)",
-      "Aceite"
-    ],
-    "receta": [
+    "guarnicion": false,
+    "pasos": [
       "En un bol, mezclar la carne picada con el huevo, la cebolla, el ajo y los condimentos.",
       "Formar las hamburguesas con las manos y reservar en la heladera durante al menos 30 minutos.",
       "Calentar la parrilla a fuego medio-alto y cepillar con aceite.",
       "Colocar las hamburguesas en la parrilla y cocinar durante 4-5 minutos de cada lado o hasta que estén doradas y cocidas por completo."
+    ],
+    "ingredientes": [
+      { "nombre": "carne picada (preferentemente magra)", "cantidad": "500g" },
+      { "nombre": "huevo", "cantidad": "1" },
+      { "nombre": "cebolla picada", "cantidad": "1" },
+      { "nombre": "diente de ajo picado", "cantidad": "1" },
+      { "nombre": "condimentos", "cantidad": "a gusto" },
+      { "nombre": "aceite", "cantidad": "cantidad necesaria" }
     ]
   },
   {
     "nombre": "Hamburguesas de lentejas y quinoa",
-    "ingredientes": [
-      "1 taza de lentejas cocidas",
-      "1 taza de quinoa cocida",
-      "1 cebolla picada",
-      "1 diente de ajo picado",
-      "1 huevo",
-      "Pan rallado sin harina",
-      "Condimentos a gusto (sal, pimienta, orégano, ají molido, etc.)",
-      "Aceite"
-    ],
-    "receta": [
+    "guarnicion": false,
+    "pasos": [
       "En un bol, mezclar las lentejas cocidas con la quinoa cocida, la cebolla, el ajo, el huevo y los condimentos.",
       "Agregar pan rallado hasta obtener una mezcla que se pueda moldear.",
       "Formar las hamburguesas con las manos y reservar en la heladera durante al menos 30 minutos.",
       "Calentar una sartén con aceite a fuego medio-alto.",
       "Cocinar las hamburguesas durante 4-5 minutos de cada lado o hasta que estén doradas y cocidas por completo."
+    ],
+    "ingredientes": [
+      { "nombre": "lentejas cocidas", "cantidad": "1 taza" },
+      { "nombre": "quinoa cocida", "cantidad": "1 taza" },
+      { "nombre": "cebolla picada", "cantidad": "1" },
+      { "nombre": "diente de ajo picado", "cantidad": "1" },
+      { "nombre": "huevo", "cantidad": "1" },
+      { "nombre": "pan rallado sin harina", "cantidad": "cantidad necesaria" },
+      { "nombre": "condimentos", "cantidad": "a gusto" },
+      { "nombre": "aceite", "cantidad": "cantidad necesaria" }
     ]
   },
   {
     "nombre": "Hamburguesas de carne y queso",
-    "ingredientes": [
-      "500g de carne picada (preferentemente magra)",
-      "100g de queso rallado",
-      "1 huevo",
-      "1 cebolla picada",
-      "1 diente de ajo picado",
-      "Condimentos a gusto (sal, pimienta, orégano, ají molido, etc.)",
-      "Aceite"
-    ],
-    "receta": [
+    "guarnicion": false,
+    "pasos": [
       "En un bol, mezclar la carne picada con el huevo, la cebolla, el ajo, los condimentos y el queso rallado.",
       "Formar las hamburguesas con las manos y reservar en la heladera durante al menos 30 minutos.",
       "Calentar la parrilla a fuego medio-alto y cepillar con aceite.",
       "Colocar las hamburguesas en la parrilla y cocinar durante 4-5 minutos de cada lado o hasta que estén doradas y cocidas por completo."
+    ],
+    "ingredientes": [
+      { "nombre": "carne picada (preferentemente magra)", "cantidad": "500g" },
+      { "nombre": "queso rallado", "cantidad": "100g" },
+      { "nombre": "huevo", "cantidad": "1" },
+      { "nombre": "cebolla picada", "cantidad": "1" },
+      { "nombre": "diente de ajo picado", "cantidad": "1" },
+      { "nombre": "condimentos", "cantidad": "a gusto" },
+      { "nombre": "aceite", "cantidad": "cantidad necesaria" }
     ]
   },
   {
     "nombre": "Hamburguesas de berenjena y garbanzos",
-    "ingredientes": [
-      "1 berenjena",
-      "1 taza de garbanzos cocidos",
-      "1 cebolla picada",
-      "1 diente de ajo picado",
-      "1 huevo",
-      "Pan rallado sin harina",
-      "Condimentos a gusto (sal, pimienta, orégano, ají molido, etc.)",
-      "Aceite"
-    ],
-    "receta": [
+    "guarnicion": false,
+    "pasos": [
       "Precalentar el horno a 180°C.",
       "Cortar la berenjena en cubos y saltearla en una sartén con aceite hasta que esté dorada y cocida.",
       "En un bol, mezclar la berenjena salteada con los garbanzos cocidos, la cebolla, el ajo, el huevo y los condimentos.",
       "Agregar pan rallado hasta obtener una mezcla que se pueda moldear.",
       "Formar las hamburguesas con las manos y reservar en la heladera durante al menos 30 minutos.",
       "Colocar las hamburguesas en una bandeja para horno y hornear durante 20-25 minutos o hasta que estén doradas y cocidas por completo."
+    ],
+    "ingredientes": [
+      { "nombre": "berenjena", "cantidad": "1" },
+      { "nombre": "garbanzos cocidos", "cantidad": "1 taza" },
+      { "nombre": "cebolla picada", "cantidad": "1" },
+      { "nombre": "diente de ajo picado", "cantidad": "1" },
+      { "nombre": "huevo", "cantidad": "1" },
+      { "nombre": "pan rallado sin harina", "cantidad": "cantidad necesaria" },
+      { "nombre": "condimentos", "cantidad": "a gusto" },
+      { "nombre": "aceite", "cantidad": "cantidad necesaria" }
     ]
   },
   {
     "nombre": "Hamburguesas de lentejas y zanahoria",
-    "ingredientes": [
-      "1 taza de lentejas cocidas",
-      "1 zanahoria rallada",
-      "1 cebolla picada",
-      "2 dientes de ajo picados",
-      "1 huevo",
-      "Pan rallado sin harina",
-      "Condimentos a gusto (sal, pimienta, orégano, ají molido, etc.)",
-      "Aceite"
-    ],
-    "receta": [
+    "guarnicion": false,
+    "pasos": [
       "En un bol, mezclar las lentejas cocidas con la zanahoria rallada, la cebolla, el ajo, el huevo y los condimentos.",
       "Agregar pan rallado hasta obtener una mezcla que se pueda moldear.",
       "Formar las hamburguesas con las manos y reservar en la heladera durante al menos 30 minutos.",
       "Calentar la parrilla a fuego medio-alto y cepillar con aceite.",
       "Colocar las hamburguesas en la parrilla y cocinar durante 4-5 minutos de cada lado o hasta que estén doradas y cocidas por completo."
+    ],
+    "ingredientes": [
+      { "nombre": "lentejas cocidas", "cantidad": "1 taza" },
+      { "nombre": "zanahoria rallada", "cantidad": "1" },
+      { "nombre": "cebolla picada", "cantidad": "1" },
+      { "nombre": "dientes de ajo picados", "cantidad": "2" },
+      { "nombre": "huevo", "cantidad": "1" },
+      { "nombre": "pan rallado sin harina", "cantidad": "cantidad necesaria" },
+      { "nombre": "condimentos", "cantidad": "a gusto" },
+      { "nombre": "aceite", "cantidad": "cantidad necesaria" }
     ]
   },
   {
     "nombre": "Hamburguesas de pollo y espinaca",
-    "ingredientes": [
-      "500g de pechuga de pollo picada",
-      "1 taza de espinaca picada",
-      "1 cebolla picada",
-      "1 huevo",
-      "Pan rallado sin harina",
-      "Condimentos a gusto (sal, pimienta, orégano, ají molido, etc.)",
-      "Aceite"
-    ],
-    "receta": [
+    "guarnicion": false,
+    "pasos": [
       "En un bol, mezclar el pollo picado con la espinaca picada, la cebolla, el huevo y los condimentos.",
       "Agregar pan rallado hasta obtener una mezcla que se pueda moldear.",
       "Formar las hamburguesas con las manos y reservar en la heladera durante al menos 30 minutos.",
       "Calentar la parrilla a fuego medio-alto y cepillar con aceite.",
       "Colocar las hamburguesas en la parrilla y cocinar durante 4-5 minutos de cada lado o hasta que estén doradas y cocidas por completo."
+    ],
+    "ingredientes": [
+      { "nombre": "pechuga de pollo picada", "cantidad": "500g" },
+      { "nombre": "espinaca picada", "cantidad": "1 taza" },
+      { "nombre": "cebolla picada", "cantidad": "1" },
+      { "nombre": "huevo", "cantidad": "1" },
+      { "nombre": "pan rallado sin harina", "cantidad": "cantidad necesaria" },
+      { "nombre": "condimentos", "cantidad": "a gusto" },
+      { "nombre": "aceite", "cantidad": "cantidad necesaria" }
     ]
   }
 ]
