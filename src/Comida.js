@@ -6,6 +6,7 @@ import ListGroup from "react-bootstrap/ListGroup";
 import Modal from "react-bootstrap/Modal";
 import Button from "react-bootstrap/Button";
 
+const apiUrl = import.meta.env.VITE_API_URL;
 
 function Comida({ datosComida, show, onHide }) {
   const [receta, setReceta] = useState(null);
@@ -14,7 +15,7 @@ function Comida({ datosComida, show, onHide }) {
   useEffect(() => {
     if (!datosComida?.id || !show) return;
 
-    fetch(`http://localhost:3000/Recetas/${datosComida.id}`)
+    fetch(`${apiUrl}/Recetas/${datosComida.id}`)
       .then((res) => {
         if (!res.ok) throw new Error("Error al cargar la receta");
         return res.json();

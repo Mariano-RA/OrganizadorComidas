@@ -10,6 +10,8 @@ import Comida from "./Comida";
 import { ButtonGroup } from "react-bootstrap";
 import TablaMenuHorizontal from "./TablaMenuHorizontal";
 
+const apiUrl = import.meta.env.VITE_API_URL;
+
 function App() {
   const [comidas, setComidas] = useState(null);
 
@@ -18,7 +20,7 @@ function App() {
   const [mostrarDatos, setMostrarDatos] = useState(false);
 
   const cargarMenuDesdeBackend = () => {
-    fetch("http://localhost:3000/Planes/Generar")
+    fetch(`${apiUrl}/Planes/Generar`)
       .then((response) => response.json())
       .then((data) => {
         setComidas(data);
