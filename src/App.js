@@ -10,7 +10,7 @@ import Comida from "./Comida";
 import { ButtonGroup } from "react-bootstrap";
 import TablaMenuHorizontal from "./TablaMenuHorizontal";
 
-const apiUrl = import.meta.env.REACT_APP_API_URL;
+const apiUrl = process.env.REACT_APP_API_URL;
 
 function App() {
   const [comidas, setComidas] = useState(null);

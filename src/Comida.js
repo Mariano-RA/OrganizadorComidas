@@ -6,7 +6,7 @@ import ListGroup from "react-bootstrap/ListGroup";
 import Modal from "react-bootstrap/Modal";
 import Button from "react-bootstrap/Button";
 
-const apiUrl = import.meta.env.REACT_APP_API_URL;
+const apiUrl = process.env.REACT_APP_API_URL;
 
 function Comida({ datosComida, show, onHide }) {
   const [receta, setReceta] = useState(null);
