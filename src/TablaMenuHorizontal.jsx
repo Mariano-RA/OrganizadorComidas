@@ -10,7 +10,7 @@ const TablaMenuHorizontal = ({ menu, onRehacerMenu, onSeleccionarComida }) => {
         <thead>
           <tr>
             <th></th>
-            {dias.map((dia) => (
+            {dias.length > 0 && dias.map((dia) => (
               <th
                 key={dia}
                 style={{ textTransform: "capitalize", textAlign: "center" }}

@@ -51,7 +51,7 @@ function App() {
 
   const cambiarComidaEnServidor = async (menuId, dia, comida) => {
     try {
-      const response = await fetch(`http://localhost:3000/Planes/cambiarComida/${menuId}`, {
+      const response = await fetch(`${apiUrl}/Planes/cambiarComida/${menuId}`, {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ dia, comida }),
