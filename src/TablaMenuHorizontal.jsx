@@ -6,11 +6,12 @@ const TablaMenuHorizontal = ({ menu, onRehacerMenu, onSeleccionarComida }) => {
 
   return (
     <div>
+      {dias.length > 0 &&
       <Table bordered responsive>
         <thead>
           <tr>
             <th></th>
-            {dias.length > 0 && dias.map((dia) => (
+            { dias.map((dia) => (
               <th
                 key={dia}
                 style={{ textTransform: "capitalize", textAlign: "center" }}
@@ -95,7 +96,7 @@ const TablaMenuHorizontal = ({ menu, onRehacerMenu, onSeleccionarComida }) => {
             })}
           </tr>
         </tbody>
-      </Table>
+      </Table>}
     </div>
   );
 };
